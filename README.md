@@ -1,4 +1,4 @@
-# dokomi-diy-electronic
+# dokomi-diy-electronics
 References for an electronics beginner workshop I gave at Dokomi Düsseldorf in Germany
 
 # Referenzen
